@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @AhsanAli13503
-- 👀 I’m interested in Datascience and Mobile App development
-- 🌱 I’m currently learning Dart, Flutter
+- 👀 I’m interested in software development
+- 🌱 I’m currently working with Dart, Flutter
+- Have expertise in React Native, flutter and Relational Database design
 - 📫 ahsanali3174@gmail.com
 
 <!---
