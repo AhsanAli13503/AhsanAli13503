@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AhsanAli13503
 - 👀 I’m interested in software development
 - 🌱 I’m currently working with Dart, Flutter
-- Have expertise in  web and mobile applocation development using React Native, flutter and  Relational database.
+- Have expertise in  web and mobile application development using React Native, flutter and  Relational database.
 - 📫 ahsanali3174@gmail.com
 
 <!---
